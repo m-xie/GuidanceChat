@@ -1,0 +1,26 @@
+.main {
+  margin-left: 31%;
+  margin-right: 30%;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  font-family: 'Courier New';
+  text-align: center;
+  color: #A51C30;
+  font-weight: bold;
+}
+.counselor {
+  color: #003262;
+}
+
+.student{
+  color: #FDB515;
+}
+
+.message {
+  margin-bottom: 20px;
+}
